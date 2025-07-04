@@ -191,7 +191,7 @@ function setup() {
 
     // Load video 'eye' 
     setTimeout(() => {
-      eyeVideo = createVideo(['videos/eye.mp4'], eyevideoLoaded);
+      eyeVideo = createVideo(['eye.mp4'], eyevideoLoaded);
       eyeVideo.hide();
       eyeVideo.onended(() => {
         eyeVideo.hide();
@@ -208,7 +208,7 @@ function setup() {
 
     // Load video 'chip' 
     setTimeout(() => {
-      chipVideo = createVideo(['videos/chip.mp4'], chipvideoLoaded);
+      chipVideo = createVideo(['chip.mp4'], chipvideoLoaded);
       chipVideo.hide();
       chipVideo.onended(() => {
         chipVideo.hide();
@@ -225,7 +225,7 @@ function setup() {
 
     // Load video 'city' 
     setTimeout(() => {
-      cityVideo = createVideo(['videos/city.mp4'], cityvideoLoaded);
+      cityVideo = createVideo(['city.mp4'], cityvideoLoaded);
       cityVideo.hide();
       cityVideo.onended(() => {
         cityVideo.hide();
@@ -241,7 +241,7 @@ function setup() {
 
     // Load video 'earth' 
     setTimeout(() => {
-      earthVideo = createVideo(['videos/earth.mp4'], earthvideoLoaded);
+      earthVideo = createVideo(['earth.mp4'], earthvideoLoaded);
       earthVideo.hide();
       earthVideo.onended(() => {
         earthVideo.hide();
@@ -258,7 +258,7 @@ function setup() {
 
     // Load video 'cam' 
     setTimeout(() => {
-      camVideo = createVideo(['videos/cam.mp4'], camvideoLoaded);
+      camVideo = createVideo(['cam.mp4'], camvideoLoaded);
       camVideo.hide();
       camVideo.onended(() => {
         camVideo.hide();
@@ -274,7 +274,7 @@ function setup() {
 
     // Load video 'cam' 
     setTimeout(() => {
-      camVideo = createVideo(['videos/cam.mp4'], camvideoLoaded);
+      camVideo = createVideo(['cam.mp4'], camvideoLoaded);
       camVideo.hide();
       camVideo.onended(() => {
         camVideo.hide();
@@ -290,7 +290,7 @@ function setup() {
 
     // Load video 'street' 
     setTimeout(() => {
-      streetVideo = createVideo(['videos/street.mp4'], streetvideoLoaded);
+      streetVideo = createVideo(['street.mp4'], streetvideoLoaded);
       streetVideo.hide();
       streetVideo.onended(() => {
         streetVideo.hide();
@@ -306,7 +306,7 @@ function setup() {
 
     // Load video 'protest' 
     setTimeout(() => {
-      protestVideo = createVideo(['videos/protest.mp4'], protestvideoLoaded);
+      protestVideo = createVideo(['protest.mp4'], protestvideoLoaded);
       protestVideo.hide();
       protestVideo.onended(() => {
         protestVideo.hide();
@@ -322,7 +322,7 @@ function setup() {
 
     // Load video 'eye' 
     setTimeout(() => {
-      eyeVideo = createVideo(['videos/eye.mp4'], eyevideoLoaded);
+      eyeVideo = createVideo(['eye.mp4'], eyevideoLoaded);
       eyeVideo.hide();
       eyeVideo.onended(() => {
         eyeVideo.hide();
@@ -338,7 +338,7 @@ function setup() {
 
     // Load video 'neuro' 
     setTimeout(() => {
-      neuroVideo = createVideo(['videos/neuro.mp4'], neurovideoLoaded);
+      neuroVideo = createVideo(['neuro.mp4'], neurovideoLoaded);
       neuroVideo.hide();
       neuroVideo.onended(() => {
         neuroVideo.hide();
@@ -354,7 +354,7 @@ function setup() {
 
     // Load video 'forest' 
     setTimeout(() => {
-      forestVideo = createVideo(['videos/forest.mp4'], forestvideoLoaded);
+      forestVideo = createVideo(['forest.mp4'], forestvideoLoaded);
       forestVideo.hide();
       forestVideo.onended(() => {
         forestVideo.hide();
